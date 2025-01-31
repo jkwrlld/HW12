@@ -14,3 +14,23 @@
     padding-top: 60px;
     padding-bottom: 161px;
 }
+
+.hero {
+  padding-top: 200px; 
+  padding-bottom: 280px; 
+}
+
+.advantages {
+    padding-top: 94px;
+    padding-bottom: 176px;
+}
+
+.about-us {
+    padding-top: 94px;
+    padding-bottom: 438px;
+}
+
+.our-team {
+    padding-top: 94px;
+    padding-bottom: 512px;
+}
